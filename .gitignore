@@ -1,0 +1,4 @@
+node_modules/
+client/todo-app-mern/node_modules/
+server/node_modules/
+.env
